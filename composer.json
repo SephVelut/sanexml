@@ -3,6 +3,7 @@
     "type": "library",
     "description": "Xml Serializer",
     "keywords": ["xml", "serializer"],
+    "homepage": "https://github.com/SephVelut/sanexml",
     "require": {
         "sabre/xml": "1.4",
         "phpunit/phpunit": "^5.6"
