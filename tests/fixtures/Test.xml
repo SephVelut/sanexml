@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RootElement xmlns="http://www.w3.org/2001/XMLSchema-instance">
+    <Lion>
+        <E1>195.201.0.78</E1>
+        <E2>2001-12-31T12:00:00-06:00</E2>
+    </Lion>
+    <Tiger>
+        <E1>30044</E1>
+        <E2>Lawrenceville</E2>
+    </Tiger>
+    <Whale>
+        <EW1 At1="3" At2="4">Own</EW1>
+        <EW2>
+            <EW3 At3="true" At4="0">
+                <EW4 At5="5000" At6="5" At7="0">
+                    <Dingo Egret="shutup">
+                        <Bingo Singo="eyyyy">BamBam</Bingo>
+                    </Dingo>
+                </EW4>
+            </EW3>
+        </EW2>
+    </Whale>
+</RootElement>
