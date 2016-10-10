@@ -13,14 +13,6 @@ class Serializer extends Service
         $this->clarkN = $clarkN;
     }
 
-    /*public function mapValueObject($element)
-    {
-        $elementName = $this->getElementNameFromNamespace($element);
-        $objectName = get_class($element);
-
-        return parent::mapValueObject($this->clarkN . $elementName, $objectName);
-    }*/
-
     public function map($object)
     {
          $parser = $this->getParser($object);
